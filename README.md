@@ -1,2 +1,2 @@
 # MachineLearningProject
-For this project I wrote a Machine Learning pipeline for exoplanet classification.
+For this project I wrote a Machine Learning pipeline for exoplanet classification in Matlab.
