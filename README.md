@@ -1,2 +1,2 @@
-# MachineLearningProject
-For this project I wrote a Machine Learning pipeline for exoplanet classification in Matlab.
+# Preprocessing
+This branch contains all the necessary files for the preprocessing
